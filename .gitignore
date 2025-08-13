@@ -1,0 +1,18 @@
+# Executable
+fdf
+
+# Object files
+obj/
+*.o
+
+# Build directories
+build/
+MLX42/build/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+*~
